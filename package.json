@@ -1,0 +1,15 @@
+{
+  "name": "ni-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:classmatewu/ni-demo.git",
+  "author": "zelinwu <zelinwu@tencent.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/app.js"
+  },
+  "dependencies": {
+    "@antfu/ni": "^0.11.0",
+    "vite": "^2.6.14"
+  }
+}
